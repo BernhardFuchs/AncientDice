@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/af084f53db8b8345adab4f97b43efc2c86db5d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1db37e70afca9a23b8ec3d827f445d9aaba5bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/672eea5ca75b7d249bd05ec37bbc408d20daac6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4270b27e972e0a8606b54268b1db58da4aa5c11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/67e397aa0976609168baca201ed8050b75ad7f51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db883cdc993a4e9c79d14d40f2a04f01323caf67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_694a51234e273e1eedf5e5c05c8abc7531149d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8a65bdf405cc355abf956f26b3c8ec516469b7">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b65bb7789038cbd4cb0a10446cb451340ca6e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9b1712ff58b85326aceba687b5f1ad2abfee052c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/2f723aa6dea510a14381e6fe73a9fd8fb007e81e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35b782d2eb88d9a82ade00c31c328ebb6a95c9b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/a1a9b70c6f9a6ef21f19eabf01e9024d46736447/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14195f19840f7473d52c73a9d8863282177ecded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/8a94184b6ff289c0dc3f9a3a2e20ce439c6505f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44415339622e1995c28faa27fdf4f390335b4d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/432615a81dd84a9fb1f40ccec1c83f342a818179/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3daa9cffdc1de21325afb3ef6cf30e6e4751342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/3605319a823b6be9838864a590adc5a6870b6062/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a61415de03d2f186a95b65d51950bedb3499b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/12b253644fba3118a6f6b07060da5f6134e78178/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb3f0514261f8ea7aedb0f94184772e9f8c8f5dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/9f24454b3329429274a28952600dda54f559db53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8328281311f8e7133567ce3cca3c42e92d771d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/59d897f5b6f9f625a423f0fac24e19ca55cb24c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fd1975bc40fdc46cb11d4bff17d084341fc1c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/dccff6855f3150f797cee23022871d9316c0f37f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7a28b059417bc54c87c608c6f914cef801cfe1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/.android/build-cache/718f463b732b14d22856e6c67d16d20c2c79e89b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77d79a45e4ee9f48e9aaa34b0a693e05ad3d7989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/berfuc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/berfuc/workspace/training/AncientDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_7213fc7d391d3226d714ed759523332fd4549ab6/classes.dex" />
+    </item>
+
+</items>

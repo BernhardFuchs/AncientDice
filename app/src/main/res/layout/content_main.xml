@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.games.ancientdice.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ImageView
+        android:id="@+id/Dice0"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/Dice1"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_alignLeft="@+id/Dice0"
+        android:layout_below="@+id/Dice0"
+        android:layout_marginTop="46dp"/>
+
+    <ImageView
+        android:id="@+id/Dice2"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_alignLeft="@+id/Dice1"
+        android:layout_below="@+id/Dice1"
+        android:layout_marginTop="47dp"/>
+
+    <ImageView
+        android:id="@+id/Dice3"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_alignLeft="@+id/Dice2"
+        android:layout_below="@+id/Dice2"
+        android:layout_marginTop="38dp"/>
+
+</RelativeLayout>
